@@ -1,0 +1,57 @@
+.no-data{
+  color: #e74c3c;
+  display: block;
+  margin-bottom: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+#box-case {
+  width: 15%;
+  height: 100p;
+  display: inline-block;
+  float: left;
+  background-color: #34495e;
+  color: #fff;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#search-form {
+  width: 30%;
+  display: block;
+  margin: auto;
+  height: 120px;
+}
+
+#search-form h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 25px;
+}
+
+#search-form input {
+  width: 70%;
+  border: none;
+  outline: none;
+  border: 1px solid #999;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+#search-form button {
+  padding: 10px;
+  border: none;
+  outline: none;
+  background-color: #27ae60;
+  color: #fff;
+  border-radius: 4px;
+}
+
+#container {
+  width: 90%;
+  margin: auto;
+}
