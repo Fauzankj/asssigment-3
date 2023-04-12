@@ -1,3 +1,7 @@
+body{
+  background-color: orange;
+}
+
 .no-data{
   color: #e74c3c;
   display: block;
@@ -5,19 +9,97 @@
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
 }
-#box-case {
-  width: 15%;
-  height: 100p;
-  display: inline-block;
+
+.box1{
+  border-radius: 2em;
+  height: 700px;
+  margin-top: 20px;
+  background-color: #F49D1A;
+}
+
+#box-case1 {
+  width: 300PX;
+  height: 50px;
   float: left;
-  background-color: #34495e;
+  background-color: #285430;
   color: #fff;
   padding: 5px;
   box-sizing: border-box;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  margin-left: 10px;
-  margin-top: 10px;
+  margin-left: -297px;
+  margin-top: 68px;
+  margin-bottom: 15px;
+}
+#box-case2 {
+  width: 300PX;
+  height: 50px;
+  float: left;
+  background-color: #285430;
+  color: #fff;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -299px;
+  margin-top: 142px;
+  margin-bottom: 15px;
+}
+#box-case3 {
+  width: 300PX;
+  height: 50px;
+  float: left;
+  background-color: #285430;
+  color: #fff;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -298px;
+  margin-top: 226px;
+  margin-bottom: 15px;
+}
+#box-case4 {
+  width: 300PX;
+  height: 50px;
+  float: left;
+  background-color: #285430;
+  color: #fff;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 150px;
+  margin-top: 32px;
+  margin-bottom: 15px;
+}
+#box-case5 {
+  width: 300PX;
+  height: 50px;
+  float: left;
+  background-color: #285430;
+  color: #fff;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 150px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+#box-case6 {
+  width: 300PX;
+  height: 50px;
+  float: left;
+  background-color: #285430;
+  color: #fff;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 150px;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 #search-form {
